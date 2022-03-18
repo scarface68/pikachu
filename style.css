@@ -90,6 +90,11 @@ hr{
     right: 300px;
     top: 50px;
 }
+.mount{
+    width: auto ;
+    max-width: 100% ;
+    height: auto ;
+}
 .contact-message{
     width: 40%;
     margin: 40px auto 60px;
