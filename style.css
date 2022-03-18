@@ -83,7 +83,7 @@ hr{
 .bottom-cloud{  
     position: absolute;
     left: 300px;
-    bottom: 300px;
+    top: 50px;
 }
 .top-cloud{
     position: absolute;
